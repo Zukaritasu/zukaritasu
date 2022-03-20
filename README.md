@@ -1,4 +1,4 @@
-### Hola! Bienvenid@ :)
+### Hello! Welcome :)
 I am a Informatic Engineering student at the [Universidad Nacional Experimental Rómulo Gallegos](http://dace.unerg.me/).
 
 I am dedicated to the development of desktop applications for the Windows system and I have knowledge in the programming languages **Java**, **C**, **C++** and **C#**. I have been programming for a little over 4 years and have created several projects of my own as a hobby, such as [jdialogs](https://github.com/Zukaritasu/jdialogs) and [notepadpp_rpc](https://github.com/Zukaritasu/notepadpp_rpc), on the other hand, I have no interest in web development :)
