@@ -1,5 +1,7 @@
-### Hola! Bienvenido 👋
-Soy un estudiante de Ingeniería en Informática en la Universidad Nacional Experimental Rómulo Gallegos. Mi primer lenguaje de programación que use para desarrollar mi lógica de programación fue **Python**, luego aprendí **Java** y lo estuve usando durante 2 años, después aprendí **C**, **C++** y por ultimo **C#**. Sobre el desarrollo web lo estoy estudiando pero no es a lo que me dedico sino al desarrollo de aplicaciones de escritorio para el sistema **Windows**
+### Hola! Bienvenid@ :)
+Soy un estudiante de Ingeniería en Informática en la [Universidad Nacional Experimental Rómulo Gallegos](http://dace.unerg.me/). 
+
+Tengo conocimientos en los lenguajes de programacion **Java**, **C**, **C++** y **C#**. Tengo un poco mas de 4 años programando y he creado varios proyectos propios como un pasatiempo, como por ejemplo [jdialogs](https://github.com/Zukaritasu/jdialogs) y [notepadpp_rpc](https://github.com/Zukaritasu/notepadpp_rpc). Soy un desarrollador de aplicaciones de escritorio para Windows y no tengo intereses en el desarrollo web :)
 
 <!--
 **Zukaritasu/zukaritasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
