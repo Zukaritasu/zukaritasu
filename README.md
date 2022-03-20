@@ -1,7 +1,7 @@
 ### Hola! Bienvenid@ :)
-Soy un estudiante de Ingeniería en Informática en la [Universidad Nacional Experimental Rómulo Gallegos](http://dace.unerg.me/). 
+I am a Informatic Engineering student at the [Universidad Nacional Experimental Rómulo Gallegos](http://dace.unerg.me/).
 
-Tengo conocimientos en los lenguajes de programacion **Java**, **C**, **C++** y **C#**. Tengo un poco mas de 4 años programando y he creado varios proyectos propios como un pasatiempo, como por ejemplo [jdialogs](https://github.com/Zukaritasu/jdialogs) y [notepadpp_rpc](https://github.com/Zukaritasu/notepadpp_rpc). Soy un desarrollador de aplicaciones de escritorio para Windows y no tengo intereses en el desarrollo web :)
+I am dedicated to the development of desktop applications for the Windows system and I have knowledge in the programming languages **Java**, **C**, **C++** and **C#**. I have been programming for a little over 4 years and have created several projects of my own as a hobby, such as [jdialogs](https://github.com/Zukaritasu/jdialogs) and [notepadpp_rpc](https://github.com/ Zukaritasu/notepadpp_rpc), on the other hand, I have no interest in web development :)
 
 <!--
 **Zukaritasu/zukaritasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
