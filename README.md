@@ -1,7 +1,11 @@
-### Hello! Welcome :)
-I am a Informatic Engineering student
+**Hi! I'm a Software Developer!**
 
-I am dedicated to the development of desktop applications for the Windows system and I have knowledge in the programming languages **Java**, **C**, **C++** and **C#**. I have been programming for a little over 6 years and have created several projects of my own as a hobby, such as [jdialogs](https://github.com/Zukaritasu/jdialogs) and [notepadpp_rpc](https://github.com/Zukaritasu/notepadpp_rpc), on the other hand, I have no interest in web development :)
+- Specialising in Desktop Application Development.
+With a strong background in creating efficient and robust desktop applications, I am passionate about transforming ideas into functional solutions.
+- Expertise in Multiple Programming Languages
+My portfolio of projects demonstrates my ability to work with diverse programming languages, including C#, Java, and more. Each project is an opportunity to learn and apply new technologies.
+- Featured Projects
+Explore my repositories to see examples of my work and how I apply my knowledge to solve real problems.
 
 <!--
 **Zukaritasu/zukaritasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
