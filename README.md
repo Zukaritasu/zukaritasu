@@ -7,6 +7,7 @@ My portfolio of projects demonstrates my ability to work with diverse programmin
 - Featured Projects
 Explore my repositories to see examples of my work and how I apply my knowledge to solve real problems.
 
+For more information you can contact me on my Discord server https://discord.gg/sKeKgJSz3S
 <!--
 **Zukaritasu/zukaritasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
